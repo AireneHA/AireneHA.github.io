@@ -2,6 +2,5 @@
 usemap="#SEPEX">
 
 <map name="SEPEX">
-<area alt="" shape="RECT" coords="0,0,4252,5669" 
-href="https://journals.sagepub.com/doi/10.1177/1747021819883963">
+<area alt="" shape="rect" coords="0,0,4252,5669" href="https://journals.sagepub.com/doi/10.1177/1747021819883963">
 </map>
