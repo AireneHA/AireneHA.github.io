@@ -15,13 +15,13 @@
 			<img src="imagenes/PosterSEPEX2021_02.gif" width="714" height="1251" alt=""></td>
 		<td>
 			<a href="https://journals.sagepub.com/doi/10.1177/1747021819883963">
-				<img src="PosterSEPEX2021_03.gif" width="331" height="197" border="0" alt=""></a></td>
+				<img src="imagenes/PosterSEPEX2021_03.gif" width="331" height="197" border="0" alt=""></a></td>
 		<td rowspan="2">
-			<img src="PosterSEPEX2021_04.gif" width="1081" height="1251" alt=""></td>
+			<img src="imagenes/PosterSEPEX2021_04.gif" width="1081" height="1251" alt=""></td>
 	</tr>
 	<tr>
 		<td>
-			<img src="PosterSEPEX2021_05.gif" width="331" height="1054" alt=""></td>
+			<img src="imagenes/PosterSEPEX2021_05.gif" width="331" height="1054" alt=""></td>
 	</tr>
 </table>
 <!-- End Save for Web Slices -->
