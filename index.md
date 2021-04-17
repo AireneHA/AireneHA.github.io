@@ -1,4 +1,5 @@
-<img src="imagenes/Poster SEPEX2021.jpg" width="4252" height="5669" alt=""></a></td>
+<a href="https://journals.sagepub.com/doi/10.1177/1747021819883963">
+<img src="imagenes/Poster SEPEX2021.jpg" width="4252" height="5669" alt=""></a>
 usemap="#SEPEX">
 
 <map name="SEPEX">
