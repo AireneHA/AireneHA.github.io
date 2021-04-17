@@ -15,7 +15,7 @@
 			<img src="imagenes/PosterSEPEX2021_02.gif" width="" height="" alt=""></td>
 		<td>
 			<a href="https://journals.sagepub.com/doi/10.1177/1747021819883963">
-				<img src="imagenes/Cartel-Distractor-Task_Fondo2_03.jpg" width="" height="" border="0" alt=""></a></td>
+				<img src="imagenes/Cartel-Distractor-Task_Fondo2_03.jpg" width="" height="" border="" alt=""></a></td>
 		<td rowspan="2">
 			<img src="imagenes/PosterSEPEX2021_04.gif" width="" height="" alt=""></td>
 	</tr>
