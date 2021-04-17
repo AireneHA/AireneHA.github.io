@@ -1,7 +1,7 @@
-<img src="imagenes/Poster SEPEX2021.jpg" width="3167" height="5669" alt=""></a></td>
+<img src="imagenes/Poster SEPEX2021.jpg" width="4252" height="5669" alt=""></a></td>
 usemap="#SEPEX">
 
 <map name="SEPEX">
-<area alt="" shape="RECT" coords="0,0,3167,5669" 
+<area alt="" shape="RECT" coords="0,0,4252,5669" 
 href="https://journals.sagepub.com/doi/10.1177/1747021819883963">
 </map>
