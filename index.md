@@ -15,7 +15,7 @@
 			<img src="imagenes/PosterSEPEX2021_02.gif" width="856" height="1501" alt=""></td>
 		<td>
 			<a href="https://journals.sagepub.com/doi/10.1177/1747021819883963">
-				<img src="imagenes/PosterSEPEX2021_03.gif" width="398" height="237" border="0" alt=""></a></td>
+				<img src="imagenes/PosterSEPEX2021_03.jpg" width="398" height="237" border="0" alt=""></a></td>
 		<td rowspan="2">
 			<img src="imagenes/PosterSEPEX2021_04.gif" width="1297" height="1501" alt=""></td>
 	</tr>
